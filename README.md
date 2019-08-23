@@ -51,7 +51,7 @@
 [Fluid](http://david.li/fluid/)：流动的粒子、流体粒子  
 [INFINITOWN](http://demos.littleworkshop.fr/infinitown)：3D小镇  
 [Cloud-islands](https://adrienlamy.fr/projects/cloud-islands)：凸起云海、动态波浪。这位作者的[主页](adrienlamy.fr)还有几个好玩的小玩具。（@马赛克 推荐）  
-[Simplex Noise](https://www.yuichiroharai.com/wgl/)：动态渐变流体。这个网站包含了15个WebGL工具，每个WebGL工具没有独立的域名，点击不同名称，就可以切换到不同的WebGL工具。（@你丫才美工 推荐）  
+[Simplex Noise](https://www.yuichiroharai.com/wgl/)：动态渐变流体。这个网站包含了15个WebGL工具，每个WebGL工具没有独立的域名，点击不同名称，就可以切换到不同的WebGL工具。附上这位作者的[Github主页](https://github.com/yuichiroharai)。（@你丫才美工 推荐）  
 []
 
 ## 3D工具  
