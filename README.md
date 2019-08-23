@@ -7,6 +7,11 @@
 [@亚赛大人](https://weibo.com/psaiaevegas?topnav=1&wvr=6&topsug=1)  
 [@pissang](https://weibo.com/pissang?topnav=1&wvr=6&topsug=1)  
 [@马赛克_m](https://weibo.com/hellomosaic?topnav=1&wvr=6&topsug=1&is_all=1)  
-[@demi老方](https://weibo.com/u/5810655200?topnav=1&wvr=6&topsug=1&is_all=1)
+[@demi老方](https://weibo.com/u/5810655200?topnav=1&wvr=6&topsug=1&is_all=1)  
+
+
+Github上的两个高Star设计项目：  
+[awesome-design](https://github.com/gztchan/awesome-design)  
+[Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 
 
