@@ -12,12 +12,13 @@
 [@你丫才美工](https://weibo.com/honghaier555?topnav=1&wvr=6&topsug=1)
 
 ## Color 颜色
-
+[Duotone](https://duotone.shapefactory.co/?f=00d3d4&t=006cff)：双色调风格、一键重新着色（重新上色）
 
 ## Designer 设计师
-[]
+[Ruslan Khasanov](http://www.ruskhasanov.com/)：颜料大神，色彩掌控感优秀。  
 
-[Duotone](https://duotone.shapefactory.co/?f=00d3d4&t=006cff)：双色调风格、一键重新着色（重新上色）  
+
+  
 
 ## Font 字体  
 
@@ -29,7 +30,11 @@
 
 ## Picture 图片
 [纹理背景生成器](https://halftonepro.com/app/stripes)：纹理背景生成器。
-[Undraw]()
+[Undraw](http://undraw.co/illustrations)：可商用的免费矢量素材网站，收录了超多流行的Google插画。（@你丫才美工 推荐）  
+[Illustration Gallery](https://gallery.manypixels.co/)：与上面的Undraw类似，全部免费可商用，区别在于这个网站的矢量素材使用了渐变填充，显得更高级。（@优设网 推荐）  
+[Isoflat](https://isoflat.com/)：一个等距风格的矢量图库，等距风格俗称2.5D，一般通过Adobe Illustration来制作出伪3D的效果。上面的素材是否可商用，需要看素材的具体情况。（@Simon_阿文 推荐）  
+[WLPPR](http://original.wlppr.co/)：来自NASA等机构的航拍图片，可以找到许多星球的纹理素材。（@Simon_阿文 推荐）  
+[]
 
 
 ## pissang [Github主页](https://github.com/pissang)
@@ -46,6 +51,8 @@
 [Fluid](http://david.li/fluid/)：流动的粒子、流体粒子  
 [INFINITOWN](http://demos.littleworkshop.fr/infinitown)：3D小镇  
 [Cloud-islands](https://adrienlamy.fr/projects/cloud-islands)：凸起云海、动态波浪。这位作者的[主页](adrienlamy.fr)还有几个好玩的小玩具。（@马赛克 推荐）  
+[Simplex Noise](https://www.yuichiroharai.com/wgl/)：动态渐变流体。这个网站包含了15个WebGL工具，每个WebGL工具没有独立的域名，点击不同名称，就可以切换到不同的WebGL工具。（@你丫才美工 推荐）  
+[]
 
 ## 3D工具  
 [V]
