@@ -27,7 +27,14 @@
 [Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)：流体模拟器  
 [Paint](http://david.li/paint/)：涂鸦油画颜料  
 [Fluid](http://david.li/fluid/)：流动的粒子、流体粒子  
-[INFINITOWN](http://demos.littleworkshop.fr/infinitown)：3D小镇
+[INFINITOWN](http://demos.littleworkshop.fr/infinitown)：3D小镇  
+[Cloud-islands](https://adrienlamy.fr/projects/cloud-islands)：凸起云海、动态波浪。这位作者的[主页](adrienlamy.fr)还有几个好玩的小玩具。（@马赛克 推荐）  
+
+## 亚赛大人
+[Design tools](https://wangyasai.github.io/designtools.html)：亚赛大人出品的设计工具合集  
+[Github主页]()
+## 
+
 
 ## 3D工具
 
