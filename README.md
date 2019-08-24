@@ -85,7 +85,8 @@
 [WLPPR](http://original.wlppr.co/)：来自NASA等机构的航拍图片，可以找到许多星球的纹理素材。（@Simon_阿文 推荐）  
 [Pictogram2](http://pictogram2.com/?lang=en)：火柴人网站，@Simon_阿文 的教程中用到的有趣小人，就是来自这里。  
 [36-Gradients](https://images.superfamous.com/36-Gradients)：36张好看的渐变图片。  
-[Freepik](https://www.freepik.com/)：可能是最好用的矢量素材网站，免费的素材/作品一抓一大把。（@优卡 @林书尼 推荐）
+[Freepik](https://www.freepik.com/)：可能是最好用的矢量素材网站，免费的素材/作品一抓一大把。（@优卡 @林书尼 推荐）  
+[Svgbackgrounds](https://www.svgbackgrounds.com/#vanishing-stripes)：矢量背景/矢量纹理，可以下载SVG格式的文件。此外，它还提供了CSS代码，可用于网页设计。（@demi老方 推荐）  
 
 
 
