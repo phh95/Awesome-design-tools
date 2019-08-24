@@ -33,6 +33,8 @@
 ## Designer 设计师
 [Ruslan Khasanov](http://www.ruskhasanov.com/)：颜料大神，色彩掌控感优秀。  
 [Jason K. Smith](http://colordodge.com/)：一个沉迷用代码创造各种交互动画的大神设计师。（@林书尼 推荐）  
+[Aeforia](https://www.aeforiadesign.com/digital-art)：抽象、超现实主题的设计师。（@林书尼 推荐）  
+
 
 ## Design Tutorial 设计教程  
 [Uiiiuiii](https://uiiiuiii.com/)：优优教程网，简称U站，优设旗下的教程网站，上面的资源超全，有很多设计软件的学习教程，而且基本都是免费且高质量的。  
@@ -81,6 +83,8 @@
 [Isoflat](https://isoflat.com/)：一个等距风格的矢量图库，等距风格俗称2.5D，一般通过Adobe Illustration来制作出伪3D的效果。上面的素材是否可商用，需要看素材的具体情况。（@Simon_阿文 推荐）  
 [WLPPR](http://original.wlppr.co/)：来自NASA等机构的航拍图片，可以找到许多星球的纹理素材。（@Simon_阿文 推荐）  
 [Pictogram2](http://pictogram2.com/?lang=en)：火柴人网站，@Simon_阿文 的教程中用到的有趣小人，就是来自这里。  
+[36-Gradients](https://images.superfamous.com/36-Gradients)：36张好看的渐变图片。  
+
 
 
 
