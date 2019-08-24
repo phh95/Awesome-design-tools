@@ -11,7 +11,8 @@
 [@demi老方](https://weibo.com/u/5810655200?topnav=1&wvr=6&topsug=1&is_all=1)    
 [@你丫才美工](https://weibo.com/honghaier555?topnav=1&wvr=6&topsug=1)  
 [@包大有趣](https://weibo.com/fay1004?topnav=1&wvr=6&topsug=1&sudaref=s.weibo.com&is_all=1)  
-[@林书尼](https://weibo.com/u/2475782525?topnav=1&wvr=6&topsug=1&is_all=1)
+[@林书尼](https://weibo.com/u/2475782525?topnav=1&wvr=6&topsug=1&is_all=1)  
+[@优卡说](https://weibo.com/youkappt?is_hot=1)
 
 ## 使用方法
 * 使用浏览器自带的搜索功能，快捷键为Ctrl+F，通过输入关键字，能更快找到想要的工具。  
@@ -84,6 +85,7 @@
 [WLPPR](http://original.wlppr.co/)：来自NASA等机构的航拍图片，可以找到许多星球的纹理素材。（@Simon_阿文 推荐）  
 [Pictogram2](http://pictogram2.com/?lang=en)：火柴人网站，@Simon_阿文 的教程中用到的有趣小人，就是来自这里。  
 [36-Gradients](https://images.superfamous.com/36-Gradients)：36张好看的渐变图片。  
+[Freepik](https://www.freepik.com/)：可能是最好用的矢量素材网站，免费的素材/作品一抓一大把。（@优卡 @林书尼 推荐）
 
 
 
@@ -124,7 +126,8 @@
 
 
 ## 插件
-[Muzli](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc?utm_source=chrome-ntp-icon)：寻找灵感的Chrome插件，集合了多个设计网站的热门作品。
+[Muzli](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc?utm_source=chrome-ntp-icon)：寻找灵感的Chrome插件，集合了多个设计网站的热门作品。  
+[图片助手](https://www.pullywood.com/ImageAssistant/)：可以用来批量提取/下载网页图片。  
 
 ## 设计导航工具 
 [addog](http://www.addog.vip/)：虽然名字叫广告狗，面向的是广告从业者，但也适合设计师使用。  
