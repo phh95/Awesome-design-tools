@@ -9,7 +9,16 @@
 [@pissang](https://weibo.com/pissang?topnav=1&wvr=6&topsug=1)  
 [@马赛克_m](https://weibo.com/hellomosaic?topnav=1&wvr=6&topsug=1&is_all=1)  
 [@demi老方](https://weibo.com/u/5810655200?topnav=1&wvr=6&topsug=1&is_all=1)    
-[@你丫才美工](https://weibo.com/honghaier555?topnav=1&wvr=6&topsug=1)
+[@你丫才美工](https://weibo.com/honghaier555?topnav=1&wvr=6&topsug=1)  
+
+## 使用方法
+* 使用浏览器自带的搜索功能，快捷键为Ctrl+F，通过输入关键字，能更快找到想要的工具。  
+* 如果你想要提交好玩的工具，可以在Issue页面发起Issue，它可以看成是一个留言区。
+* 如果你不想使用Github，也可以看我之前整理在Mubu的[《神器种草》](https://mubu.com/doc/2u0lSKuDan)。
+
+## Animation 动画
+[Panzoid](https://panzoid.com/)：在线修改网站提供的模板，制作炫酷动画。（@你丫才美工 推荐）  
+
 
 ## Color 颜色
 [Duotone](https://duotone.shapefactory.co/?f=00d3d4&t=006cff)：双色调风格、一键重新着色（重新上色）
@@ -17,13 +26,15 @@
 ## Designer 设计师
 [Ruslan Khasanov](http://www.ruskhasanov.com/)：颜料大神，色彩掌控感优秀。  
 
-
+## Effect 特效  
+[PhotoMosh](https://photomosh.com/)：在线图片视频特效工具，拥有多种特效，可一键制作出故障风格等效果。  
+[]
   
 
 ## Font 字体  
 
 [Abelone](https://www.fontself.com/colorfontweek/valentine-edition-2019#abelone)：自带渐变效果的字体
-[Gilbert](https://www.typewithpride.com/)：彩虹字体    
+[Gilbert](https://www.typewithpride.com/)：彩虹字体      
 [GROPE SANS](http://bompasandparr.com/projects/view/grope-mountain/#)：据说是最色的字体  
 [汉仪阿尔茨海默病体](http://www.hanyi.com.cn/productdetail.php?id=2637)：风格特殊的字体  
 [2D动画字体](http://t.cn/RYfQ395)：只有26个字母和0-9 10个数字，需要使用到AE。（@马赛克 推荐）  
