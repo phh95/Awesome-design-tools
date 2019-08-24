@@ -51,7 +51,7 @@
 [Abelone](https://www.fontself.com/colorfontweek/valentine-edition-2019#abelone)：自带渐变效果的字体  
 [Gilbert](https://www.typewithpride.com/)：彩虹字体      
 [GROPE SANS](http://bompasandparr.com/projects/view/grope-mountain/#)：据说是最色的字体  
-[汉仪阿尔茨海默病体](http://www.hanyi.com.cn/productdetail.php?id=2637)：汉仪字库的字体，文字的部分笔画用线条进行了代替。
+[汉仪阿尔茨海默病体](http://www.hanyi.com.cn/productdetail.php?id=2637)：汉仪字库的字体，文字的部分笔画用线条进行了代替。   
 [2D动画字体](http://t.cn/RYfQ395)：只有26个字母和0-9 10个数字，需要使用到AE。（@马赛克_m 推荐）  
 [沐瑶软笔手写体](https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html)：免费可商用的卡通字体，这是一位老爸送给女儿的一份礼物。  
 [庞门正道粗书体](https://pan.baidu.com/s/17o4-udkD94_gm2wWoqT0fA)：免费可商用的书法字体。提取码：bk84  
@@ -116,8 +116,8 @@
 [Simplex Noise](https://www.yuichiroharai.com/wgl/)：动态渐变流体。这个网站包含了15个WebGL工具，每个WebGL工具没有独立的域名，点击不同名称，就可以切换到不同的WebGL工具。附上这位作者的[Github主页](https://github.com/yuichiroharai)。（@你丫才美工 推荐）  
 [Biomes](https://demo.marpi.pl/biomes/)：体素（立体像素）生成器。  
 [MQRZMp](https://codepen.io/anon/pen/MQRZMp)：炫光生成器，一键生成炫酷的炫光图片。（@Simon_阿文 推荐）  
-[Abstract mountains](https://alteredqualia.com/xg/examples/abstract_mountains.html)：3D小山峰、抽象Lowpoly山峰，点一下就能改变山峰的颜色。 
-[Nebula Artefact](https://alteredqualia.com/xg/examples/nebula_artefact.html)：液态星球生成器。  
+[Abstract mountains](https://alteredqualia.com/xg/examples/abstract_mountains.html)：3D小山峰、抽象Lowpoly山峰，点一下就能改变山峰的颜色。   
+[Nebula Artefact](https://alteredqualia.com/xg/examples/nebula_artefact.html)：液态星球生成器。    
 [AlteredQualia](https://alteredqualia.com/)：超全的WebGL工具合集，WebGL的鼻祖开发的网站。附上他的[Github主页](https://github.com/alteredq)。  
 
 
