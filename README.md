@@ -11,6 +11,7 @@
 [@demi老方](https://weibo.com/u/5810655200?topnav=1&wvr=6&topsug=1&is_all=1)    
 [@你丫才美工](https://weibo.com/honghaier555?topnav=1&wvr=6&topsug=1)  
 [@包大有趣](https://weibo.com/fay1004?topnav=1&wvr=6&topsug=1&sudaref=s.weibo.com&is_all=1)  
+[@林书尼](https://weibo.com/u/2475782525?topnav=1&wvr=6&topsug=1&is_all=1)
 
 ## 使用方法
 * 使用浏览器自带的搜索功能，快捷键为Ctrl+F，通过输入关键字，能更快找到想要的工具。  
@@ -31,7 +32,7 @@
 
 ## Designer 设计师
 [Ruslan Khasanov](http://www.ruskhasanov.com/)：颜料大神，色彩掌控感优秀。  
-[]
+[Jason K. Smith](http://colordodge.com/)：一个沉迷用代码创造各种交互动画的大神设计师。（@林书尼 推荐）  
 
 ## Design Tutorial 设计教程  
 [Uiiiuiii](https://uiiiuiii.com/)：优优教程网，简称U站，优设旗下的教程网站，上面的资源超全，有很多设计软件的学习教程，而且基本都是免费且高质量的。  
@@ -63,8 +64,9 @@
 ## Mockup 样机
 [Browseframe](https://browserframe.com/)：在线为截图添加macOS界面的样机。  
 [Free design resources](https://freedesignresources.net/category/free-mockups/)：免费设计资源网站，上面有免费的样机可供下载。  
-[iPhone XS longscroll mockup](https://www.ls.graphics/free/free-iphone-xs-longscroll-mockup)：卷轴样机，看起来很酷。（@Simon_阿文 推荐）  
-[LS.Graphics](https://www.ls.graphics/)：高质量的素材网站，可以找到一些免费的高质量样机。（@Simon_阿文 推荐）  
+[iPhone XS longscroll mockup](https://www.ls.graphics/free/free-iphone-xs-longscroll-mockup)：卷轴样机侧面，看起来很酷。（@Simon_阿文 推荐）  
+[Free longscroll iPhoneX mockup](https://www.ls.graphics/free/free-long-scroll-iphone-x-mockup)：卷轴样机侧面。  
+[LS.Graphics](https://www.ls.graphics/)：高质量的素材网站，可以找到一些免费的高质量样机。（@林书尼 推荐）  
 
 
 
@@ -96,6 +98,9 @@
 
 
 ## WebGL
+[Thorne](https://frontierwithin.thorne.com/)：数字肖像生成器，通过电脑摄像头，可以将拍摄的个人照片转换为一大群动态的粒子（[@林书尼](https://weibo.com/2475782525/HE9dVlJUc?from=page_1005052475782525_profile&wvr=6&mod=weibotime&type=comment) 安利）
+[VertexOscillation](http://colordodge.com/VertexOscillation/)：分层振荡生成器，可以生成动态抽象形状，可以通过控制面板调节参数。懒得调整参数，可以直接修改顶部的Default，里面还有3种其他的预置。附上这位作者的[个人网站](http://colordodge.com/)，还有超多好玩的神器。（@亚赛大人 [@林书尼](https://weibo.com/2475782525/HEbZsr8s0?from=page_1005052475782525_profile&wvr=6&mod=weibotime&type=comment#_rnd1566640274154) 推荐）  
+
 [Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)：流体模拟器  
 [Paint](http://david.li/paint/)：涂鸦油画颜料  
 [Fluid](http://david.li/fluid/)：流动的粒子、流体粒子  
@@ -107,6 +112,7 @@
 [Abstract mountains](https://alteredqualia.com/xg/examples/abstract_mountains.html)：3D小山峰、抽象Lowpoly山峰，点一下就能改变山峰的颜色。 
 [Nebula Artefact](https://alteredqualia.com/xg/examples/nebula_artefact.html)：液态星球生成器。  
 [AlteredQualia](https://alteredqualia.com/)：超全的WebGL工具合集，WebGL的鼻祖开发的网站。附上他的[Github主页](https://github.com/alteredq)。  
+
 
 
 ## 3D工具  
