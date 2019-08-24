@@ -10,7 +10,7 @@
 [@马赛克_m](https://weibo.com/hellomosaic?topnav=1&wvr=6&topsug=1&is_all=1)  
 [@demi老方](https://weibo.com/u/5810655200?topnav=1&wvr=6&topsug=1&is_all=1)    
 [@你丫才美工](https://weibo.com/honghaier555?topnav=1&wvr=6&topsug=1)  
-[@包大有趣](https://weibo.com/fay1004?topnav=1&wvr=6&topsug=1&sudaref=s.weibo.com&is_all=1)
+[@包大有趣](https://weibo.com/fay1004?topnav=1&wvr=6&topsug=1&sudaref=s.weibo.com&is_all=1)  
 
 ## 使用方法
 * 使用浏览器自带的搜索功能，快捷键为Ctrl+F，通过输入关键字，能更快找到想要的工具。  
@@ -22,17 +22,24 @@
 
 
 ## Color 颜色
-[Duotone](https://duotone.shapefactory.co/?f=00d3d4&t=006cff)：双色调风格、一键重新着色（重新上色）
+[Adobe Color](https://color.adobe.com/zh/create/color-wheel/?base=2&rule=Custom&selected=2&name=7137adf67a7efa4ef23fffe7ca9ac561e9f92fdd3bde-LJG04Wfw658&mode=rgb&rgbvalues=0.4470588235294118,0.4392156862745098,0.4470588235294118,0.6470588235294118,0.6392156862745098,0.6470588235294118,0.1411764705882353,0.12549019607843137,0.1450980392156863,0.8470588235294118,0.8313725490196079,0.8549019607843137,0.8392156862745098,0.12549019607843137,0.11764705882352941&swatchOrder=0,1,2,3,4)：Adobe出品的配色工具，可以上传图片拾取配色。  
+[中国色](http://zhongguose.com/)：中国风配色网站。  
+[UiGradients](https://uigradients.com/)：渐变配色网站。  
+[ColorSpace](https://mycolor.space/)：输入一种主色，自动生成多种好看的色卡。（@你丫才美工 推荐）   
+
+
 
 ## Designer 设计师
 [Ruslan Khasanov](http://www.ruskhasanov.com/)：颜料大神，色彩掌控感优秀。  
+[]
 
 ## Design Tutorial 设计教程  
-[Uiiiuiii]：简称U站，优设旗下的教程网站，上面的资源超全，有很多设计软件的学习教程，而且很多都是免费且高质量的。
+[Uiiiuiii](https://uiiiuiii.com/)：优优教程网，简称U站，优设旗下的教程网站，上面的资源超全，有很多设计软件的学习教程，而且基本都是免费且高质量的。  
 
 ## Effect 特效  
 [PhotoMosh](https://photomosh.com/)：在线图片视频特效工具，拥有多种特效，可一键制作出故障风格等效果。  
-[]
+[Duotone](https://duotone.shapefactory.co/?f=00d3d4&t=006cff)：双色调风格、一键重新着色（重新上色）    
+
   
 
 ## Font 字体  
@@ -52,9 +59,17 @@
 [OraqleScript](https://oload.stream/f/XdejM_-tPC8/OraqleScript.zip)：手写英文字体，由Be设计师[James Med](https://www.behance.net/chetouui110b1a)制作。（@包大有趣 推荐）  
 [叶根友唐楷简](http://www.yegenyou.com/font-detail-167-3-.htm)：书法字体。个人仅限非商业用途使用，商用需购买版权。@Simon_阿文 老师曾在两份PPT模板作品《我在故宫修模板》《浮世绘》中用到这种文字。  
 
-文艺字体列表：  
-* 方正清刻本悦宋  
-* 
+
+## Mockup 样机
+[Browseframe](https://browserframe.com/)：在线为截图添加macOS界面的样机。  
+[Free design resources](https://freedesignresources.net/category/free-mockups/)：免费设计资源网站，上面有免费的样机可供下载。  
+[iPhone XS longscroll mockup](https://www.ls.graphics/free/free-iphone-xs-longscroll-mockup)：卷轴样机，看起来很酷。（@Simon_阿文 推荐）  
+[LS.Graphics](https://www.ls.graphics/)：高质量的素材网站，可以找到一些免费的高质量样机。（@Simon_阿文 推荐）  
+
+
+
+## Music 音乐
+[Fugue](https://icons8.com/music)：Icons8旗下的音乐素材网站，可免费下载，商业使用时需附带指向Icons8的链接。  
 
 
 ## Picture 图片
@@ -76,7 +91,9 @@
 [pissang大神出品的其他工具](https://gallery.echartsjs.com/explore.html?u=bd-2215764494&type=work#sort=rank~timeframe=all~author=all)：pissang大神出品的其他工具
 
 ## Video 视频
-[Mi]
+[Mixkit](https://mixkit.co/)：免费可商用的视频素材网站。  
+[Pexels](https://www.pexels.com/videos/)：免费的视频素材网站，不过在线预览这个网站的视频需要跳墙。  
+
 
 ## WebGL
 [Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)：流体模拟器  
