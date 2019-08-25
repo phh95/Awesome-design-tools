@@ -32,7 +32,7 @@
 
 
 ## Designer 设计师
-[Vasjen Katro](http://behance.net/katro16)：Adobe Illustration 2018启动界面设计者，他的作品涉及多种风格，包含蒸汽波、孟菲斯、故障艺术、赛博朋克、波普艺术等。他在SkillShare上开了课，跟着他学，你也能轻松做出骚得炸裂的海报（[@林书尼](https://weibo.com/2475782525/Hvwh4sUK7?from=page_1005052475782525_profile&wvr=6&mod=weibotime&type=comment#_rnd1566726183837) 墙裂推荐）   
+[Vasjen Katro](http://behance.net/katro16)：Adobe Illustration 2018启动界面设计者，他的作品涉及多种风格，包含蒸汽波、孟菲斯、故障艺术、赛博朋克、波普艺术等。他在[SkillShare](https://www.skillshare.com/site/join?teacherRef=2975272&via=teacher-referral-channel&utm_campaign=teacher-referral-channel&utm_source=ShortUrl&utm_medium=teacher-referral-channel&vanityUsername=katro)上开了一门课，跟着他学，你也能轻松做出骚得炸裂的海报。（[@林书尼](https://weibo.com/2475782525/Hvwh4sUK7?from=page_1005052475782525_profile&wvr=6&mod=weibotime&type=comment#_rnd1566726183837) 墙裂推荐）   
 [Ruslan Khasanov](http://www.ruskhasanov.com/)：颜料大神，色彩掌控感优秀。  
 [Jason K. Smith](http://colordodge.com/)：一个沉迷用代码创造各种交互动画的大神设计师。（@林书尼 推荐）  
 [Aeforia](https://www.aeforiadesign.com/digital-art)：抽象、超现实主题的设计师。（@林书尼 推荐）  
