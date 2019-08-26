@@ -26,10 +26,8 @@
 [Glitch Art Studio](https://apps.apple.com/cn/app/glitch-art-studio-cam-effects/id1434795782?l=en)：iOS上的一个故障效果App，内有多种滤镜，如蒸汽波、坏电视、失真等，拍摄时所见即所得。下载免费，应用有内购。（@Simon_阿文 推荐）  
 [Enlight Pixaloop](https://www.pixaloopapp.com/)：通过对静态图片的局部进行涂抹，可以将静态图片转换为动态图像。下载免费，应用有内购，购买之后支持导出Gif。推出这个App的团队也做出了[很多其他的产品](https://apps.apple.com/cn/developer/lightricks-ltd/id606310584)。（@Simon_阿文 推荐）   
 [Mirror Lab](https://play.google.com/store/apps/details?id=com.ilixa.mirror&hl=en_US)：Android上的一个图像处理软件，可以制作出水波纹倒影、户外雨滴、低面风格和极坐标等效果。（@马赛克_m 推荐）   
-CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、六宫格和九宫格切图效果。有幸在即刻认识了这个App的开发者，希望能多点人用他的App。  
->[安卓](https://www.coolapk.com/apk/geziip.com.cuttt)
->[iOS](https://apps.apple.com/cn/app/cuttt/id1418359098)  
-
+CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、六宫格和九宫格切图效果。有幸在即刻认识了这个App的开发者，希望能多点人用他的App。这个App在两个平台都有，[安卓版本](https://www.coolapk.com/apk/geziip.com.cuttt)/[iOS版本](https://apps.apple.com/cn/app/cuttt/id1418359098)     
+[Legend](https://apps.apple.com/cn/app/id945320876)：快速制作文字动效的App，内置了多种模板，可将制作好的动画导出成MP4格式。既可以使用中文也可以使用英文，但据说在安卓上使用中文会出现乱码的情况，所以这里只给出iOS版本的下载链接。    
 
 
 ## Color 颜色
