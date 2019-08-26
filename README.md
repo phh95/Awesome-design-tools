@@ -20,7 +20,12 @@
 * 如果你不想使用Github，也可以看我之前整理在Mubu的[《神器种草》](https://mubu.com/doc/2u0lSKuDan)。
 
 ## Animation 动画
-[Panzoid](https://panzoid.com/)：在线修改网站提供的模板，制作炫酷动画。（@你丫才美工 推荐）  
+[Panzoid](https://panzoid.com/)：在线修改网站提供的模板，制作炫酷动画。（@你丫才美工 推荐）   
+
+## App
+[Glitch Art Studio](https://apps.apple.com/cn/app/glitch-art-studio-cam-effects/id1434795782?l=en)：iOS上的一个故障效果App，内有多种滤镜，如蒸汽波、坏电视、失真等，拍摄时所见即所得。下载免费，应用有内购。（@Simon_阿文 推荐）  
+[Enlight Pixaloop](https://www.pixaloopapp.com/)：通过对静态图片的局部进行涂抹，可以将静态图片转换为动态图像。下载免费，应用有内购，购买之后支持导出Gif。推出这个App的团队也做出了[很多其他的产品](https://apps.apple.com/cn/developer/lightricks-ltd/id606310584)。（@Simon_阿文 推荐）   
+[Mirror Lab]()：Android上的一个图像处理软件，可以制作出水波纹倒影、户外雨滴、低面风格等效果。（@马赛克_m 推荐）  
 
 
 ## Color 颜色
@@ -44,7 +49,9 @@
 
 ## Effect 特效  
 [PhotoMosh](https://photomosh.com/)：在线图片视频特效工具，拥有多种特效，可一键制作出故障风格等效果。  
-[Duotone](https://duotone.shapefactory.co/?f=00d3d4&t=006cff)：双色调风格、一键重新着色（重新上色）    
+[Duotone](https://duotone.shapefactory.co/?f=00d3d4&t=006cff)：双色调风格、一键重新着色（重新上色）。  
+[Letters](https://text.design/letters/)：Mac上的文字特效软件，通过修改软件提供的模板，可以快速做出各种炫酷的文字效果。（[@你丫才美工](https://weibo.com/ttarticle/p/show?id=2309404384575756342159) 推荐）  
+
 
   
 
@@ -129,7 +136,8 @@
 
 
 ## 3D工具  
-[Vectary](https://www.vectary.com/)：在线3D建模工具，分为免费版和收费版，免费般已有挺多功能可以使用。  
+[Vectary](https://www.vectary.com/)：在线3D建模工具，分为免费版和收费版，免费般已有挺多功能可以使用。   
+
 
 
 ## 插件
@@ -160,12 +168,5 @@ Github上的两个高Star设计项目：
 [炫网站](https://www.xuansite.com/color/colorful/) 一个收录了日本很多有特别设计创意的网站，访问的时候有点时候有些慢
 
 [ThingJS](http://www.thingjs.com)：一个很容易创建3D城市的模型的平台。
-
-
-
-
-
-
-
 
 
