@@ -65,6 +65,9 @@
 [OraqleScript](https://oload.stream/f/XdejM_-tPC8/OraqleScript.zip)：手写英文字体，由Be设计师[James Med](https://www.behance.net/chetouui110b1a)制作。（@包大有趣 推荐）  
 [叶根友唐楷简](http://www.yegenyou.com/font-detail-167-3-.htm)：书法字体。个人仅限非商业用途使用，商用需购买版权。@Simon_阿文 老师曾在两份PPT模板作品《我在故宫修模板》《浮世绘》中用到这种文字。  
 
+[icoonfot](https://www.iconfont.cn)：阿里的一个图标库，还包括一个惠普字体，商用程度需要注意。
+
+[字由](http://www.hellofont.cn)：一个软件，安装之后可以使用很多字体，而且商用和非商用有直接的说明，但是因为软件才开发出来没有很久，感觉还有一些bug。一年的商用权限的会员价格不是很贵。可以考虑使用。
 
 ## Mockup 样机
 [Browseframe](https://browserframe.com/)：在线为截图添加macOS界面的样机。  
@@ -152,6 +155,11 @@ Github上的两个高Star设计项目：
 [awesome-design](https://github.com/gztchan/awesome-design)  
 [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)  
 [Awesome Design Tools](https://flawlessapp.io/designtools)：这是上面的Github项目的网站，涵盖图片、视频、字体、配色、渐变色、icon、logo、mockup等方面，会不定期更新。
+
+[炫网站](https://www.xuansite.com/color/colorful/) 一个收录了日本很多有特别设计创意的网站，访问的时候有点时候有些慢
+
+[ThingJS](http://www.thingjs.com)：一个很容易创建3D城市的模型的平台。
+
 
 
 
