@@ -63,9 +63,9 @@
 [Sngk](http://sngk.net/)：动漫字体生成器，生成的字体可以保存成PNG。（@Simon_阿文 推荐）  
 [PhatRave](https://fontmeme.com/fonts/phat-rave-font/)：手绘字体、黑板报字体。  
 [OraqleScript](https://oload.stream/f/XdejM_-tPC8/OraqleScript.zip)：手写英文字体，由Be设计师[James Med](https://www.behance.net/chetouui110b1a)制作。（@包大有趣 推荐）  
-[叶根友唐楷简](http://www.yegenyou.com/font-detail-167-3-.htm)：书法字体。个人仅限非商业用途使用，商用需购买版权。@Simon_阿文 老师曾在两份PPT模板作品《我在故宫修模板》《浮世绘》中用到这种文字。  
+[叶根友唐楷简](http://www.yegenyou.com/font-detail-167-3-.htm)：书法字体。个人仅限非商业用途使用，商用需购买版权。@Simon_阿文 老师曾在两份PPT模板作品《我在故宫修模板》《浮世绘》中用到这种文字。     
 
-[icoonfot](https://www.iconfont.cn)：阿里的一个图标库，还包括一个惠普字体，商用程度需要注意。
+
 
 [字由](http://www.hellofont.cn)：一个软件，安装之后可以使用很多字体，而且商用和非商用有直接的说明，但是因为软件才开发出来没有很久，感觉还有一些bug。一年的商用权限的会员价格不是很贵。可以考虑使用。
 
@@ -91,7 +91,8 @@
 [Pictogram2](http://pictogram2.com/?lang=en)：火柴人网站，@Simon_阿文 的教程中用到的有趣小人，就是来自这里。  
 [36-Gradients](https://images.superfamous.com/36-Gradients)：36张好看的渐变图片。  
 [Freepik](https://www.freepik.com/)：可能是最好用的矢量素材网站，免费的素材/作品一抓一大把。（@优卡 @林书尼 推荐）  
-[Svgbackgrounds](https://www.svgbackgrounds.com/#vanishing-stripes)：矢量背景/矢量纹理，可以下载SVG格式的文件。此外，它还提供了CSS代码，可用于网页设计。（@demi老方 推荐）  
+[Svgbackgrounds](https://www.svgbackgrounds.com/#vanishing-stripes)：矢量背景/矢量纹理，可以下载SVG格式的文件。此外，它还提供了CSS代码，可用于网页设计。（@demi老方 推荐）   
+[iconfont](https://www.iconfont.cn)：阿里的一个图标库，还包括一个阿里惠普字体，商用程度需要注意。  
 
 
 
