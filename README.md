@@ -124,7 +124,7 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [Thorne](https://frontierwithin.thorne.com/)：数字肖像生成器，通过电脑摄像头，可以将拍摄的个人照片转换为一大群动态的粒子（[@林书尼](https://weibo.com/2475782525/HE9dVlJUc?from=page_1005052475782525_profile&wvr=6&mod=weibotime&type=comment) 安利）
 [VertexOscillation](http://colordodge.com/VertexOscillation/)：分层振荡生成器，可以生成动态抽象形状，可以通过控制面板调节参数。懒得调整参数，可以直接修改顶部的Default，里面还有3种其他的预置。附上这位作者的[个人网站](http://colordodge.com/)，还有超多好玩的神器。（@亚赛大人 [@林书尼](https://weibo.com/2475782525/HEbZsr8s0?from=page_1005052475782525_profile&wvr=6&mod=weibotime&type=comment#_rnd1566640274154) 推荐）  
 
-[Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)：流体模拟器  
+[Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)：流体模拟器。这个工具有对应的App版本——流体模拟，链接分别为：[iOS](https://apps.apple.com/cn/app/%E6%B5%81%E4%BD%93%E6%A8%A1%E6%8B%9F/id1443124993)/[Android](https://play.google.com/store/apps/details?id=games.paveldogreat.fluidsim)。附上开发者的[Github主页](https://github.com/PavelDoGreat)。（@Simon_阿文 推荐）      
 [Paint](http://david.li/paint/)：涂鸦油画颜料  
 [Fluid](http://david.li/fluid/)：流动的粒子、流体粒子  
 [INFINITOWN](http://demos.littleworkshop.fr/infinitown)：3D小镇  
