@@ -74,10 +74,10 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [PhatRave](https://fontmeme.com/fonts/phat-rave-font/)：手绘字体、黑板报字体。  
 [OraqleScript](https://oload.stream/f/XdejM_-tPC8/OraqleScript.zip)：手写英文字体，由Be设计师[James Med](https://www.behance.net/chetouui110b1a)制作。（@包大有趣 推荐）  
 [叶根友唐楷简](http://www.yegenyou.com/font-detail-167-3-.htm)：书法字体。个人仅限非商业用途使用，商用需购买版权。@Simon_阿文 老师曾在两份PPT模板作品《我在故宫修模板》《浮世绘》中用到这种文字。     
-
-
-
 [字由](http://www.hellofont.cn)：一个软件，安装之后可以使用很多字体，而且商用和非商用有直接的说明，但是因为软件才开发出来没有很久，感觉还有一些bug。一年的商用权限的会员价格不是很贵。可以考虑使用。
+
+## Game 游戏
+[Polygonal Planet](oskarstalberg.com)：这是一款游戏，通过游戏提供的工具，可以制作好看酷炫的星球。（@Simon_阿文 推荐）
 
 ## Mockup 样机
 [Browseframe](https://browserframe.com/)：在线为截图添加macOS界面的样机。  
@@ -91,6 +91,8 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 ## Music 音乐
 [Fugue](https://icons8.com/music)：Icons8旗下的音乐素材网站，可免费下载，商业使用时需附带指向Icons8的链接。  
 
+## Openprocessing
+[Electric Sphere](https://www.openprocessing.org/sketch/389855)：毛球生成器，毛线星球生成器，毛绒绒的圆球。附上作者David Crooks的[Openprocessing主页](https://www.openprocessing.org/user/68039)（[@Simon_阿文](https://www.uisdc.com/9-planets-builder) 推荐）   
 
 ## Picture 图片
 [纹理背景生成器](https://halftonepro.com/app/stripes)：纹理背景生成器。  
