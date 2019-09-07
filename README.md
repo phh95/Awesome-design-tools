@@ -30,6 +30,9 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [Legend](https://apps.apple.com/cn/app/id945320876)：快速制作文字动效的App，内置了多种模板，可将制作好的动画导出成MP4格式。既可以使用中文也可以使用英文，但据说在安卓上使用中文会出现乱码的情况，所以这里只给出iOS版本的下载链接。    
 [CleverBrush](https://www.cleverbrush.com/editor): 一种非常简单的在线替代流行的矢量绘图应用程序
 
+## Code 代码
+[ThingJS](http://www.thingjs.com)：一个很容易创建3D城市的模型的平台。   
+
 
 ## Color 颜色
 [Adobe Color](https://color.adobe.com/zh/create/color-wheel/?base=2&rule=Custom&selected=2&name=7137adf67a7efa4ef23fffe7ca9ac561e9f92fdd3bde-LJG04Wfw658&mode=rgb&rgbvalues=0.4470588235294118,0.4392156862745098,0.4470588235294118,0.6470588235294118,0.6392156862745098,0.6470588235294118,0.1411764705882353,0.12549019607843137,0.1450980392156863,0.8470588235294118,0.8313725490196079,0.8549019607843137,0.8392156862745098,0.12549019607843137,0.11764705882352941&swatchOrder=0,1,2,3,4)：Adobe出品的配色工具，可以上传图片拾取配色。  
@@ -48,7 +51,9 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 
 
 ## Design Tutorial 设计教程  
-[Uiiiuiii](https://uiiiuiii.com/)：优优教程网，简称U站，优设旗下的教程网站，上面的资源超全，有很多设计软件的学习教程，而且基本都是免费且高质量的。  
+[Uiiiuiii](https://uiiiuiii.com/)：优优教程网，简称U站，优设旗下的教程网站，上面的资源超全，有很多设计软件的学习教程，而且基本都是免费且高质量的。    
+[doyoudo](http://www.doyoudo.com/)：这是一个在线设计教育的网站，上面既有免费也有收费课程，但免费课程更多，老师的声音也很好听。  
+
 
 ## Effect 特效  
 [PhotoMosh](https://photomosh.com/)：在线图片视频特效工具，拥有多种特效，可一键制作出故障风格等效果。  
@@ -65,8 +70,6 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [GROPE SANS](http://bompasandparr.com/projects/view/grope-mountain/#)：据说是最色的字体  
 [汉仪阿尔茨海默病体](http://www.hanyi.com.cn/productdetail.php?id=2637)：汉仪字库的字体，文字的部分笔画用线条进行了代替。   
 [2D动画字体](http://t.cn/RYfQ395)：只有26个字母和0-9 10个数字，需要使用到AE。（@马赛克_m 推荐）  
-[沐瑶软笔手写体](https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html)：免费可商用的卡通字体，这是一位老爸送给女儿的一份礼物。  
-[庞门正道粗书体](https://pan.baidu.com/s/17o4-udkD94_gm2wWoqT0fA)：免费可商用的书法字体。提取码：bk84  
 [logo字体](https://fonts2u.com/socialico.font)：这是一种比较特殊的字体，打出来的字是各个公司的logo，我暂时将它命名为logo字体。  
 [Adamas](https://www.behance.net/gallery/2849429/Adamas-Regular-Free-font)：英文字体，Lowpoly（低平面）风格。  
 [Cube](http://www.fontfabric.com/cube-font/#mailchimpboxin)：立体字体。  
@@ -74,7 +77,21 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [PhatRave](https://fontmeme.com/fonts/phat-rave-font/)：手绘字体、黑板报字体。  
 [OraqleScript](https://oload.stream/f/XdejM_-tPC8/OraqleScript.zip)：手写英文字体，由Be设计师[James Med](https://www.behance.net/chetouui110b1a)制作。（@包大有趣 推荐）  
 [叶根友唐楷简](http://www.yegenyou.com/font-detail-167-3-.htm)：书法字体。个人仅限非商业用途使用，商用需购买版权。@Simon_阿文 老师曾在两份PPT模板作品《我在故宫修模板》《浮世绘》中用到这种文字。     
-[字由](http://www.hellofont.cn)：一个软件，安装之后可以使用很多字体，而且商用和非商用有直接的说明，但是因为软件才开发出来没有很久，感觉还有一些bug。一年的商用权限的会员价格不是很贵。可以考虑使用。
+免费可商用字体列表：  
+* [沐瑶软笔手写体](https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html)：免费可商用的卡通字体，这是一位老爸送给女儿的一份礼物。  
+* [庞门正道粗书体](https://pan.baidu.com/s/17o4-udkD94_gm2wWoqT0fA)：免费可商用的书法字体。提取码：bk84   
+* 站酷系列字体下载链接：[站酷字库-免费字体](http://www.zcool.com.cn/special/zcoolfonts/)   
+> [站酷酷黑体]   
+> [站酷庆科黄油体](https://file.zcool.cn/community/file/2018/6/1034bc5b5980ce0000013ef2b1ebb6.zip?Expires=1567849304&OSSAccessKeyId=lwQTEmwHzzSWSkqd&Signature=L0Gc1c6NMzU7IFzNL9xTtfWPXQY%3D)    
+> [站酷文艺体]    
+> [站酷小薇logo体]    
+> [站酷意大利体]：站酷首款免费英文字体。       
+> [站酷快乐体]    
+> [站酷高端黑体]   
+* 思源黑体  
+* 思源宋体  
+* [联盟起艺卢帅正锐黑体](https://mp.weixin.qq.com/s/6s5fvOS3B9zH_gghZyOO1A)  
+
 
 ## Game 游戏
 [Polygonal Planet](oskarstalberg.com)：这是一款游戏，通过游戏提供的工具，可以制作好看酷炫的星球。（@Simon_阿文 推荐）
@@ -172,6 +189,6 @@ Github上的两个高Star设计项目：
 
 [炫网站](https://www.xuansite.com/color/colorful/) 一个收录了日本很多有特别设计创意的网站，访问的时候有点时候有些慢
 
-[ThingJS](http://www.thingjs.com)：一个很容易创建3D城市的模型的平台。
+
 
 
