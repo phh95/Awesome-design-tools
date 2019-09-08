@@ -91,7 +91,7 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 > 站酷高端黑体   
 
 ## Game 游戏
-[Polygonal Planet](https://oskarstalberg.com)：这是一款游戏，通过游戏提供的工具，可以制作好看酷炫的星球。（@Simon_阿文 推荐）
+[Polygonal Planet](http://oskarstalberg.com/game/planet/planet.html)：这是一款游戏，通过游戏提供的工具，可以制作好看酷炫的星球。这个在线工具还有离线版本，如需下载，请前往阿文老师的微博（[@Simon_阿文](https://weibo.com/1757693565/GfGRfr4fS?type=comment#_rnd1567921637067) 推荐）
 
 ## Mockup 样机
 [Browseframe](https://browserframe.com/)：在线为截图添加macOS界面的样机。  
