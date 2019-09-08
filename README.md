@@ -31,24 +31,24 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [CleverBrush](https://www.cleverbrush.com/editor): 一种非常简单的在线替代流行的矢量绘图应用程序
 
 ## Code 代码
-[ThingJS](http://www.thingjs.com)：一个很容易创建3D城市的模型的平台。   
+[ThingJS](http://www.thingjs.com)：一个很容易创建3D城市的模型的平台。 
 
 
 ## Color 颜色
-[Adobe Color](https://color.adobe.com/zh/create/color-wheel/?base=2&rule=Custom&selected=2&name=7137adf67a7efa4ef23fffe7ca9ac561e9f92fdd3bde-LJG04Wfw658&mode=rgb&rgbvalues=0.4470588235294118,0.4392156862745098,0.4470588235294118,0.6470588235294118,0.6392156862745098,0.6470588235294118,0.1411764705882353,0.12549019607843137,0.1450980392156863,0.8470588235294118,0.8313725490196079,0.8549019607843137,0.8392156862745098,0.12549019607843137,0.11764705882352941&swatchOrder=0,1,2,3,4)：Adobe出品的配色工具，可以上传图片拾取配色。  
+[Adobe Color](https://color.adobe.com/zh/create/color-wheel/?base=2&rule=Custom&selected=2&name=7137adf67a7efa4ef23fffe7ca9ac561e9f92fdd3bde-LJG04Wfw658&mode=rgb&rgbvalues=0.4470588235294118,0.4392156862745098,0.4470588235294118,0.6470588235294118,0.6392156862745098,0.6470588235294118,0.1411764705882353,0.12549019607843137,0.1450980392156863,0.8470588235294118,0.8313725490196079,0.8549019607843137,0.8392156862745098,0.12549019607843137,0.11764705882352941&swatchOrder=0,1,2,3,4)：Adobe 出品的配色工具，可以上传图片拾取配色。  
 [中国色](http://zhongguose.com/)：中国风配色网站。  
 [UiGradients](https://uigradients.com/)：渐变配色网站。  
+[Gradient](https://gradient.shapefactory.co/)：ShapeFactory 出品的渐变色网站。  
 [ColorSpace](https://mycolor.space/)：输入一种主色，自动生成多种好看的色卡。（@你丫才美工 推荐）   
-
-
+[Colordot](https://color.hailpixel.com/)：滑动鼠标寻找配色。  
+[Pigment](https://pigment.shapefactory.co/)：ShapeFactory 出品的配色网站。   
+[Colors](https://www.vanschneider.com/colors)：由 Tobias van Schneider 收集的 120 个配色方案。
 
 ## Designer 设计师
 [Vasjen Katro](http://behance.net/katro16)：Adobe Illustration 2018启动界面设计者，他的作品涉及多种风格，包含蒸汽波、孟菲斯、故障艺术、赛博朋克、波普艺术等。他在[SkillShare](https://www.skillshare.com/site/join?teacherRef=2975272&via=teacher-referral-channel&utm_campaign=teacher-referral-channel&utm_source=ShortUrl&utm_medium=teacher-referral-channel&vanityUsername=katro)上开了一门课，跟着他学，你也能轻松做出骚得炸裂的海报。（[@林书尼](https://weibo.com/2475782525/Hvwh4sUK7?from=page_1005052475782525_profile&wvr=6&mod=weibotime&type=comment#_rnd1566726183837) 墙裂推荐）   
 [Ruslan Khasanov](http://www.ruskhasanov.com/)：颜料大神，色彩掌控感优秀。  
 [Jason K. Smith](http://colordodge.com/)：一个沉迷用代码创造各种交互动画的大神设计师。（@林书尼 推荐）  
 [Aeforia](https://www.aeforiadesign.com/digital-art)：抽象、超现实主题的设计师。（@林书尼 推荐）  
-
-
 
 ## Design Tutorial 设计教程  
 [Uiiiuiii](https://uiiiuiii.com/)：优优教程网，简称U站，优设旗下的教程网站，上面的资源超全，有很多设计软件的学习教程，而且基本都是免费且高质量的。    
@@ -60,8 +60,6 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [Duotone](https://duotone.shapefactory.co/?f=00d3d4&t=006cff)：双色调风格、一键重新着色（重新上色）。  
 [Letters](https://text.design/letters/)：Mac上的文字特效软件，通过修改软件提供的模板，可以快速做出各种炫酷的文字效果。（[@你丫才美工](https://weibo.com/ttarticle/p/show?id=2309404384575756342159) 推荐）  
 
-
-  
 
 ## Font 字体  
 
@@ -92,8 +90,6 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 >  站酷快乐体    
 > 站酷高端黑体   
 
-
-
 ## Game 游戏
 [Polygonal Planet](oskarstalberg.com)：这是一款游戏，通过游戏提供的工具，可以制作好看酷炫的星球。（@Simon_阿文 推荐）
 
@@ -104,13 +100,12 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [Free longscroll iPhoneX mockup](https://www.ls.graphics/free/free-long-scroll-iphone-x-mockup)：卷轴样机侧面。  
 [LS.Graphics](https://www.ls.graphics/)：高质量的素材网站，可以找到一些免费的高质量样机。（@林书尼 推荐）  
 
-
-
 ## Music 音乐
 [Fugue](https://icons8.com/music)：Icons8旗下的音乐素材网站，可免费下载，商业使用时需附带指向Icons8的链接。  
 
 ## Openprocessing
-[Electric Sphere](https://www.openprocessing.org/sketch/389855)：毛球生成器，毛线星球生成器，毛绒绒的圆球。附上作者David Crooks的[Openprocessing主页](https://www.openprocessing.org/user/68039)（[@Simon_阿文](https://www.uisdc.com/9-planets-builder) 推荐）   
+[Electric Sphere](https://www.openprocessing.org/sketch/389855)：毛球生成器，毛线星球生成器，毛绒绒的圆球。附上作者David Crooks的  
+[Openprocessing主页](https://www.openprocessing.org/user/68039)（[@Simon_阿文](https://www.uisdc.com/9-planets-builder) 推荐）   
 
 ## Picture 图片
 [纹理背景生成器](https://halftonepro.com/app/stripes)：纹理背景生成器。  
@@ -125,8 +120,6 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [iconfont](https://www.iconfont.cn)：阿里的一个图标库，还包括一个阿里惠普字体，商用程度需要注意。  
 
 
-
-
 ## pissang [Github主页](https://github.com/pissang)
 [Gradient Wave Generator](https://codepen.io/pissang/full/geajpX)：渐变背景生成器，下载下来的文件格式为svg。  
 [Papercut](https://pissang.github.io/papercut-box-art/)：剪纸艺术。  
@@ -139,8 +132,8 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [Mixkit](https://mixkit.co/)：免费可商用的视频素材网站。  
 [Pexels](https://www.pexels.com/videos/)：免费的视频素材网站，不过在线预览这个网站的视频需要跳墙。  
 
-
 ## WebGL
+
 [Thorne](https://frontierwithin.thorne.com/)：数字肖像生成器，通过电脑摄像头，可以将拍摄的个人照片转换为一大群动态的粒子（[@林书尼](https://weibo.com/2475782525/HE9dVlJUc?from=page_1005052475782525_profile&wvr=6&mod=weibotime&type=comment) 安利）
 [VertexOscillation](http://colordodge.com/VertexOscillation/)：分层振荡生成器，可以生成动态抽象形状，可以通过控制面板调节参数。懒得调整参数，可以直接修改顶部的Default，里面还有3种其他的预置。附上这位作者的[个人网站](http://colordodge.com/)，还有超多好玩的神器。（@亚赛大人 [@林书尼](https://weibo.com/2475782525/HEbZsr8s0?from=page_1005052475782525_profile&wvr=6&mod=weibotime&type=comment#_rnd1566640274154) 推荐）  
 
@@ -156,12 +149,8 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [Nebula Artefact](https://alteredqualia.com/xg/examples/nebula_artefact.html)：液态星球生成器。    
 [AlteredQualia](https://alteredqualia.com/)：超全的WebGL工具合集，WebGL的鼻祖开发的网站。附上他的[Github主页](https://github.com/alteredq)。  
 
-
-
 ## 3D工具  
 [Vectary](https://www.vectary.com/)：在线3D建模工具，分为免费版和收费版，免费般已有挺多功能可以使用。   
-
-
 
 ## 插件
 [Muzli](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc?utm_source=chrome-ntp-icon)：寻找灵感的Chrome插件，集合了多个设计网站的热门作品。  
@@ -183,6 +172,7 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 * PerlinNoisePainter 向量场迹线  
 
 ## 其他
+
 Github上的两个高Star设计项目：  
 [awesome-design](https://github.com/gztchan/awesome-design)  
 [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)  
