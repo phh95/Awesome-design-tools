@@ -97,7 +97,7 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [Browseframe](https://browserframe.com/)：在线为截图添加macOS界面的样机。  
 [Free design resources](https://freedesignresources.net/category/free-mockups/)：免费设计资源网站，上面有免费的样机可供下载。  
 [iPhone XS longscroll mockup](https://www.ls.graphics/free/free-iphone-xs-longscroll-mockup)：卷轴样机侧面，看起来很酷。（@Simon_阿文 推荐）  
-[Free longscroll iPhoneX mockup](https://www.ls.graphics/free/free-long-scroll-iphone-x-mockup)：卷轴样机侧面。  
+[Free longscroll iPhoneX mockup](https://www.ls.graphics/free/free-long-scroll-iphone-x-mockup)：卷轴样机正面。  
 [LS.Graphics](https://www.ls.graphics/)：高质量的素材网站，可以找到一些免费的高质量样机。（@林书尼 推荐）  
 
 ## Music 音乐
