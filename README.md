@@ -21,7 +21,7 @@
 
 ## Animation 动画
 [Panzoid](https://panzoid.com/)：在线修改网站提供的模板，制作炫酷动画。（@你丫才美工 推荐）   
-[](https://hattemi.com)：液体粒子文字生成器，支持中文，生成的动画支持下载，清晰度为720p。（[@ruanyf](https://weibo.com/1400854834/IdKTlg8UN?type=comment) 老师推荐）    
+[HATTEMI](https://hattemi.com)：液体粒子文字生成器，支持中文，生成的动画支持下载，清晰度为720p。（[@ruanyf](https://weibo.com/1400854834/IdKTlg8UN?type=comment) 老师推荐）    
 
 ## App
 [Glitch Art Studio](https://apps.apple.com/cn/app/glitch-art-studio-cam-effects/id1434795782?l=en)：iOS上的一个故障效果App，内有多种滤镜，如蒸汽波、坏电视、失真等，拍摄时所见即所得。下载免费，应用有内购。（@Simon_阿文 推荐）  
