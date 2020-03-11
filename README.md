@@ -179,7 +179,8 @@ Github上的两个高Star设计项目：
 [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)  
 [Awesome Design Tools](https://flawlessapp.io/designtools)：这是上面的Github项目的网站，涵盖图片、视频、字体、配色、渐变色、icon、logo、mockup等方面，会不定期更新。
 
-[炫网站](https://www.xuansite.com/color/colorful/) 一个收录了日本很多有特别设计创意的网站，访问的时候有点时候有些慢
+[码力全开](https://design.maliquankai.com/)：产品/设计师/独立开发者的资源库，不定期更新各种资源工具。   
+[炫网站](https://www.xuansite.com/color/colorful/)：一个收录了日本很多有特别设计创意的网站，访问的时候有点时候有些慢。   
 
 
 
