@@ -29,6 +29,7 @@
 [HATTEMI](https://hattemi.com)：液体粒子文字生成器，支持中文，生成的动画支持下载，清晰度为720p。（[@ruanyf](https://weibo.com/1400854834/IdKTlg8UN?type=comment) 老师推荐）    
 
 ## App
+[Slide AR]：将
 [Glitch Art Studio](https://apps.apple.com/cn/app/glitch-art-studio-cam-effects/id1434795782?l=en)：iOS上的一个故障效果App，内有多种滤镜，如蒸汽波、坏电视、失真等，拍摄时所见即所得。下载免费，应用有内购。（@Simon_阿文 推荐）  
 [Enlight Pixaloop](https://www.pixaloopapp.com/)：通过对静态图片的局部进行涂抹，可以将静态图片转换为动态图像。下载免费，应用有内购，购买之后支持导出Gif。推出这个App的团队也做出了[很多其他的产品](https://apps.apple.com/cn/developer/lightricks-ltd/id606310584)。（@Simon_阿文 推荐）   
 [Mirror Lab](https://play.google.com/store/apps/details?id=com.ilixa.mirror&hl=en_US)：Android上的一个图像处理软件，可以制作出水波纹倒影、户外雨滴、低面风格和极坐标等效果。（@马赛克_m 推荐）   
@@ -65,6 +66,7 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [PhotoMosh](https://photomosh.com/)：在线图片视频特效工具，拥有多种特效，可一键制作出故障风格等效果。  
 [Duotone](https://duotone.shapefactory.co/?f=00d3d4&t=006cff)：双色调风格、一键重新着色（重新上色）。  
 [Letters](https://text.design/letters/)：Mac上的文字特效软件，通过修改软件提供的模板，可以快速做出各种炫酷的文字效果。（[@你丫才美工](https://weibo.com/ttarticle/p/show?id=2309404384575756342159) 推荐）  
+[Animated Water Effect](https://watereffect.net/)：动态水波纹倒影生成器，可导出视频或 Gif。这个网站顶部还提供了其他工具，如镜像特效、拼图、像素化（马赛克生成器）、恐怖特效等。（[@Simon_阿文](https://weibo.com/1757693565/J4Mop7xtc?from=page_1005051757693565_profile&wvr=6&mod=weibotime&type=comment#_rnd1591412903293) 推荐）        
 
 
 ## Font 字体  
@@ -80,7 +82,8 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [Sngk](http://sngk.net/)：动漫字体生成器，生成的字体可以保存成PNG。（@Simon_阿文 推荐）  
 [PhatRave](https://fontmeme.com/fonts/phat-rave-font/)：手绘字体、黑板报字体。  
 [OraqleScript](https://oload.stream/f/XdejM_-tPC8/OraqleScript.zip)：手写英文字体，由Be设计师[James Med](https://www.behance.net/chetouui110b1a)制作。（@包大有趣 推荐）  
-[叶根友唐楷简](http://www.yegenyou.com/font-detail-167-3-.htm)：书法字体。个人仅限非商业用途使用，商用需购买版权。@Simon_阿文 老师曾在两份PPT模板作品《我在故宫修模板》《浮世绘》中用到这种文字。     
+[叶根友唐楷简](http://www.yegenyou.com/font-detail-167-3-.htm)：书法字体。个人仅限非商业用途使用，商用需购买版权。@Simon_阿文 老师曾在两份PPT模板作品《我在故宫修模板》《浮世绘》中用到这种文字。       
+
 ### 免费可商用字体列表：  
 * [沐瑶软笔手写体](https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html)：免费可商用的卡通字体，这是一位老爸送给女儿的一份礼物。  
 * [庞门正道粗书体](https://pan.baidu.com/s/17o4-udkD94_gm2wWoqT0fA)：免费可商用的书法字体。提取码：bk84  
@@ -133,6 +136,12 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [立体城市](http://gallery.echartsjs.com/editor.html?c=xHyVK5fcTl)：彩色立体城市。  
 [Little-big-city](https://pissang.github.io/little-big-city/)：3D星球立体城市，可导出obj格式的3D模型。  
 [pissang大神出品的其他工具](https://gallery.echartsjs.com/explore.html?u=bd-2215764494&type=work#sort=rank~timeframe=all~author=all)：pissang大神出品的其他工具
+
+
+## Templates 模板    
+[slidesgo](https://slidesgo.com/)：图库网站 Freepik 旗下的 PPT 模板网站，模板的素材来自 Freepik，大多可自由编辑，细致到每一条线、每一个色块。所有PPT模板个人或商用都免费。（[@Simon_阿文](https://weibo.com/1757693565/J0FfbzoGk?from=page_1005051757693565_profile&wvr=6&mod=weibotime&type=comment#_rnd1591415823525) 推荐）    
+
+
 
 ## Video 视频
 [Mixkit](https://mixkit.co/)：免费可商用的视频素材网站。  
