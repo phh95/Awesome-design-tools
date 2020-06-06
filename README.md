@@ -29,7 +29,7 @@
 [HATTEMI](https://hattemi.com)：液体粒子文字生成器，支持中文，生成的动画支持下载，清晰度为720p。（[@ruanyf](https://weibo.com/1400854834/IdKTlg8UN?type=comment) 老师推荐）    
 
 ## App
-[Slide AR]：将
+[Slide AR]：将 PPT 变成 AR，可能是苹果专属的 App，需要使用非大陆的 AppleID 才能搜索到。（@[阿文](https://weibo.com/1757693565/J0y8H1V6B?filter=hot&root_comment_id=0&type=comment#_rnd1591416070615) 老师推荐）      
 [Glitch Art Studio](https://apps.apple.com/cn/app/glitch-art-studio-cam-effects/id1434795782?l=en)：iOS上的一个故障效果App，内有多种滤镜，如蒸汽波、坏电视、失真等，拍摄时所见即所得。下载免费，应用有内购。（@Simon_阿文 推荐）  
 [Enlight Pixaloop](https://www.pixaloopapp.com/)：通过对静态图片的局部进行涂抹，可以将静态图片转换为动态图像。下载免费，应用有内购，购买之后支持导出Gif。推出这个App的团队也做出了[很多其他的产品](https://apps.apple.com/cn/developer/lightricks-ltd/id606310584)。（@Simon_阿文 推荐）   
 [Mirror Lab](https://play.google.com/store/apps/details?id=com.ilixa.mirror&hl=en_US)：Android上的一个图像处理软件，可以制作出水波纹倒影、户外雨滴、低面风格和极坐标等效果。（@马赛克_m 推荐）   
