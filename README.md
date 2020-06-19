@@ -29,7 +29,7 @@
 [HATTEMI](https://hattemi.com)：液体粒子文字生成器，支持中文，生成的动画支持下载，清晰度为720p。（[@ruanyf](https://weibo.com/1400854834/IdKTlg8UN?type=comment) 老师推荐）    
 
 ## App
-[Slide AR]：将 PPT 变成 AR，可能是苹果专属的 App，需要使用非大陆的 AppleID 才能搜索到。（@[阿文](https://weibo.com/1757693565/J0y8H1V6B?filter=hot&root_comment_id=0&type=comment#_rnd1591416070615) 老师推荐）      
+Slide AR：将 PPT 变成 AR，可能是苹果专属的 App，需要使用非大陆的 AppleID 才能搜索到。（@[阿文](https://weibo.com/1757693565/J0y8H1V6B?filter=hot&root_comment_id=0&type=comment#_rnd1591416070615) 老师推荐）      
 [Glitch Art Studio](https://apps.apple.com/cn/app/glitch-art-studio-cam-effects/id1434795782?l=en)：iOS上的一个故障效果App，内有多种滤镜，如蒸汽波、坏电视、失真等，拍摄时所见即所得。下载免费，应用有内购。（@Simon_阿文 推荐）  
 [Enlight Pixaloop](https://www.pixaloopapp.com/)：通过对静态图片的局部进行涂抹，可以将静态图片转换为动态图像。下载免费，应用有内购，购买之后支持导出Gif。推出这个App的团队也做出了[很多其他的产品](https://apps.apple.com/cn/developer/lightricks-ltd/id606310584)。（@Simon_阿文 推荐）   
 [Mirror Lab](https://play.google.com/store/apps/details?id=com.ilixa.mirror&hl=en_US)：Android上的一个图像处理软件，可以制作出水波纹倒影、户外雨滴、低面风格和极坐标等效果。（@马赛克_m 推荐）   
@@ -71,18 +71,21 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 
 ## Font 字体  
 
-[Abelone](https://www.fontself.com/colorfontweek/valentine-edition-2019#abelone)：自带渐变效果的字体  
+[Abelone](https://www.fontself.com/colorfontweek/valentine-edition-2019#abelone)：自带渐变效果的字体   
 [Gilbert](https://www.typewithpride.com/)：彩虹字体      
 [GROPE SANS](http://bompasandparr.com/projects/view/grope-mountain/#)：据说是最色的字体  
 [汉仪阿尔茨海默病体](http://www.hanyi.com.cn/productdetail.php?id=2637)：汉仪字库的字体，文字的部分笔画用线条进行了代替。   
 [2D动画字体](http://t.cn/RYfQ395)：只有26个字母和0-9 10个数字，需要使用到AE。（@马赛克_m 推荐）  
 [logo字体](https://fonts2u.com/socialico.font)：这是一种比较特殊的字体，打出来的字是各个公司的logo，我暂时将它命名为logo字体。  
-[Adamas](https://www.behance.net/gallery/2849429/Adamas-Regular-Free-font)：英文字体，Lowpoly（低平面）风格。  
+[Adamas](https://www.behance.net/gallery/2849429/Adamas-Regular-Free-font)：英文字体，Lowpoly（低平面）风格。   
+[fontspace](https://www.fontspace.com/)：下载免费英文字体。（@Simon_阿文 推荐）                   
 [Cube](http://www.fontfabric.com/cube-font/#mailchimpboxin)：立体字体。  
 [Sngk](http://sngk.net/)：动漫字体生成器，生成的字体可以保存成PNG。（@Simon_阿文 推荐）  
 [PhatRave](https://fontmeme.com/fonts/phat-rave-font/)：手绘字体、黑板报字体。  
 [OraqleScript](https://oload.stream/f/XdejM_-tPC8/OraqleScript.zip)：手写英文字体，由Be设计师[James Med](https://www.behance.net/chetouui110b1a)制作。（@包大有趣 推荐）  
 [叶根友唐楷简](http://www.yegenyou.com/font-detail-167-3-.htm)：书法字体。个人仅限非商业用途使用，商用需购买版权。@Simon_阿文 老师曾在两份PPT模板作品《我在故宫修模板》《浮世绘》中用到这种文字。       
+[猫啃网](https://www.maoken.com/)：搜集免费可商用中文字体。（@Simon_阿文 推荐）    
+[WhatTheFont](https://www.myfonts.com/WhatTheFont/)：类似于求字体网，一个识别英文字体的在线工具。       
 
 ### 免费可商用字体列表：  
 * [沐瑶软笔手写体](https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html)：免费可商用的卡通字体，这是一位老爸送给女儿的一份礼物。  
