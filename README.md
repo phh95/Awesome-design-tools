@@ -142,8 +142,8 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 
 
 ## Templates 模板    
-[slidesgo](https://slidesgo.com/)：图库网站 Freepik 旗下的 PPT 模板网站，模板的素材来自 Freepik，大多可自由编辑，细致到每一条线、每一个色块。所有PPT模板个人或商用都免费。（[@Simon_阿文](https://weibo.com/1757693565/J0FfbzoGk?from=page_1005051757693565_profile&wvr=6&mod=weibotime&type=comment#_rnd1591415823525) 推荐）    
-
+[slidesgo](https://slidesgo.com/)：图库网站 Freepik 旗下的 PPT 模板网站，模板的素材来自 Freepik，大多可自由编辑，细致到每一条线、每一个色块。所有PPT模板个人或商用都免费。（[@Simon_阿文](https://weibo.com/1757693565/J0FfbzoGk?from=page_1005051757693565_profile&wvr=6&mod=weibotime&type=comment#_rnd1591415823525) 推荐） 
+[cholaslides]（https://cholaslides.com/）：Cholaslides提供漂亮的演示模板，以完全免费地展示您的想法。 您可以免费下载Google幻灯片，Keynote和PowerPoint模板，并且没有限制，可以根据需要下载任意数量的幻灯片。
 
 
 ## Video 视频
