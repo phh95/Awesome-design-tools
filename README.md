@@ -15,6 +15,12 @@
 [@优卡说](https://weibo.com/youkappt?is_hot=1)    
 [@这里是lins](https://weibo.com/u/1921677254?profile_ftype=1&is_all=1#_0)：她整理了一份比我更全的神器工具集，指路[微博](https://weibo.com/1921677254/IrLG0aGCv?from=page_1005051921677254_profile&wvr=6&mod=weibotime&type=comment#_rnd1583895728022)   
 
+## 项目更新 Timeline   
+
+* 这个项目是我很久以前跟着 @Simon_阿文 老师在微博上举办的「PPT 365」打卡活动，在做 PPT 的过程中积攒的一些设计工具，分享出来希望能帮到喜欢设计的朋友，感谢阿文老师在微博上的转发，才让这个项目有了这么多的 Star         
+* 后来我放弃了做 PPT 或者做设计相关工作的念头，这个项目也好久没有更新或者维护了   
+* 目前我是一名新媒体编辑，写的主要是效率工具推荐或软件使用技巧方面的内容，感兴趣的朋友可以移步我的个人公众号「[效率工具指南](https://mp.weixin.qq.com/s/yQBlY3d4AWbWHC6DTqgf0w)」，查看我目前正在做的内容            
+
 ## 工具整理心得  
 
 @Simon_阿文 老师曾写过这么一篇文章[《好玩的神器去哪里找？》](https://weibo.com/ttarticle/p/show?id=2309404121559609512336#_0)  
@@ -87,7 +93,8 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [猫啃网](https://www.maoken.com/)：搜集免费可商用中文字体。（@Simon_阿文 推荐）    
 [WhatTheFont](https://www.myfonts.com/WhatTheFont/)：类似于求字体网，一个识别英文字体的在线工具。       
 
-### 免费可商用字体列表：  
+### 免费可商用字体列表       
+* 江西拙楷：很有辨识度的一款字体，笔画中带有泼墨设计，了解这款字体的由来，可以看这里👉👉[我的第一套字体，终于跟大家见面了，免费商用！](https://mp.weixin.qq.com/s/uZxL5YlQboT2oEB4qL0PIg)。字体作者「黄煜臣」，可在作者的公众号「字体树」下载，这里放一下字体作者提供的[百度网盘下载链接](https://pan.baidu.com/s/1EcbbHwPSp19L0bONOWEwLQ) 提取码：8mvm            
 * [沐瑶软笔手写体](https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html)：免费可商用的卡通字体，这是一位老爸送给女儿的一份礼物。  
 * [庞门正道粗书体](https://pan.baidu.com/s/17o4-udkD94_gm2wWoqT0fA)：免费可商用的书法字体。提取码：bk84  
 * 思源黑体  
