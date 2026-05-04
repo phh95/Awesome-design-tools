@@ -75,6 +75,7 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [Animated Water Effect](https://watereffect.net/)：动态水波纹倒影生成器，可导出视频或 Gif。这个网站顶部还提供了其他工具，如镜像特效、拼图、像素化（马赛克生成器）、恐怖特效等。（[@Simon_阿文](https://weibo.com/1757693565/J4Mop7xtc?from=page_1005051757693565_profile&wvr=6&mod=weibotime&type=comment#_rnd1591412903293) 推荐）        
 
 
+[igly.ai](https://igly.ai)：AI图像编辑平台，支持背景移除、图像修复（Inpainting）、图像放大和生成式填充等功能。免费使用。Demo: https://www.youtube.com/watch?v=HB2E1WZ12is
 ## Font 字体  
 
 [Abelone](https://www.fontself.com/colorfontweek/valentine-edition-2019#abelone)：自带渐变效果的字体   
