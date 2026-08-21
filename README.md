@@ -56,6 +56,7 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [Colordot](https://color.hailpixel.com/)：滑动鼠标寻找配色。  
 [Pigment](https://pigment.shapefactory.co/)：ShapeFactory 出品的配色网站。   
 [Colors](https://www.vanschneider.com/colors)：由 Tobias van Schneider 收集的 120 个配色方案。
+[Codex Theme Builder](https://codextheme.tools)：免费的浏览器 CSS 主题生成器，用于 OpenAI Codex CLI，无需注册。
 
 ## Designer 设计师
 [Vasjen Katro](http://behance.net/katro16)：Adobe Illustration 2018启动界面设计者，他的作品涉及多种风格，包含蒸汽波、孟菲斯、故障艺术、赛博朋克、波普艺术等。他在[SkillShare](https://www.skillshare.com/site/join?teacherRef=2975272&via=teacher-referral-channel&utm_campaign=teacher-referral-channel&utm_source=ShortUrl&utm_medium=teacher-referral-channel&vanityUsername=katro)上开了一门课，跟着他学，你也能轻松做出骚得炸裂的海报。（[@林书尼](https://weibo.com/2475782525/Hvwh4sUK7?from=page_1005052475782525_profile&wvr=6&mod=weibotime&type=comment#_rnd1566726183837) 墙裂推荐）   
@@ -111,6 +112,7 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 
 ## Game 游戏
 [Polygonal Planet](http://oskarstalberg.com/game/planet/planet.html)：这是一款游戏，通过游戏提供的工具，可以制作好看酷炫的星球。这个在线工具还有离线版本，如需下载，请前往阿文老师的微博（[@Simon_阿文](https://weibo.com/1757693565/GfGRfr4fS?type=comment#_rnd1567921637067) 推荐）
+[SkyCOTL Tools](https://skycotl.tools)：Sky: Children of the Light 的免费在线助手工具（蜡烛、季节、任务），无需注册。
 
 ## Mockup 样机
 [Browseframe](https://browserframe.com/)：在线为截图添加macOS界面的样机。  
@@ -137,6 +139,7 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [Freepik](https://www.freepik.com/)：可能是最好用的矢量素材网站，免费的素材/作品一抓一大把。（@优卡 @林书尼 推荐）  
 [Svgbackgrounds](https://www.svgbackgrounds.com/#vanishing-stripes)：矢量背景/矢量纹理，可以下载SVG格式的文件。此外，它还提供了CSS代码，可用于网页设计。（@demi老方 推荐）   
 [iconfont](https://www.iconfont.cn)：阿里的一个图标库，还包括一个阿里惠普字体，商用程度需要注意。  
+[Image to Crochet Pattern](https://imagetocrochetpattern.com)：把照片转成钩针图样的免费浏览器工具，无需注册。
 
 
 ## pissang [Github主页](https://github.com/pissang)
