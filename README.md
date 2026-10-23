@@ -127,6 +127,7 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [Openprocessing主页](https://www.openprocessing.org/user/68039)（[@Simon_阿文](https://www.uisdc.com/9-planets-builder) 推荐）   
 
 ## Picture 图片
+[Fondo Blanco](https://fondoblanco.org)：免费西语在线抠图并换成白底，保持原图尺寸，支持 JPG/PNG/WebP，适合电商主图，免注册。
 [纹理背景生成器](https://halftonepro.com/app/stripes)：纹理背景生成器。  
 [Undraw](http://undraw.co/illustrations)：可商用的免费矢量素材网站，收录了超多流行的Google插画。（@你丫才美工 推荐）    
 [Illustration Gallery](https://gallery.manypixels.co/)：与上面的Undraw类似，全部免费可商用，区别在于这个网站的矢量素材使用了渐变填充，显得更高级。（@优设网 推荐）  
