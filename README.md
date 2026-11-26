@@ -137,6 +137,7 @@ CUTTT：这是一位个人开发者开发的App，可以用来制作四宫格、
 [Freepik](https://www.freepik.com/)：可能是最好用的矢量素材网站，免费的素材/作品一抓一大把。（@优卡 @林书尼 推荐）  
 [Svgbackgrounds](https://www.svgbackgrounds.com/#vanishing-stripes)：矢量背景/矢量纹理，可以下载SVG格式的文件。此外，它还提供了CSS代码，可用于网页设计。（@demi老方 推荐）   
 [iconfont](https://www.iconfont.cn)：阿里的一个图标库，还包括一个阿里惠普字体，商用程度需要注意。  
+[CreoArt Photo Editor](https://creoart.app/photo-editor)：免费无广告的浏览器本地 WebGPU PSD 图层编辑器，支持直接打开与编辑 PSD 图层、一键抠图与无损放大，所有文件在本地处理不上传。  
 
 
 ## pissang [Github主页](https://github.com/pissang)
